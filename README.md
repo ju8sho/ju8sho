@@ -86,7 +86,8 @@ fn main() {
 [![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)](https://doc.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 
-![Tasvir tavsifi](.ju8sho/diagram.svg)
+![Description](./diagram.svg)
+
 
 
 
